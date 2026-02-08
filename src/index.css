@@ -1,13 +1,10 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.sCard{
+  width: 300px;
+  margin: 40px;
+  background-color: rgb(145, 49, 22);
+  color: white;
+  text-align: center;
+  border: 8px solid rgb(23, 23, 216);
+  box-shadow: 0 0 15px rgb(11, 11, 130);
+  display: inline-block;
 }
